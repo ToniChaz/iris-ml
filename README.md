@@ -7,7 +7,7 @@
 * Python
 * Pip
 
-###Install:
+## Install:
 ```
 pip install -r requirements.txt
 ```
@@ -15,6 +15,11 @@ pip install -r requirements.txt
 ## Check the libraries versions
 ```
 python check.py
+```
+
+## Run
+```
+python __init__.py
 ```
 
 

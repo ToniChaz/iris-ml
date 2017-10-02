@@ -1,0 +1,6 @@
+Scipy==0.19.1
+Numpy==1.13.3
+Matplotlib==2.0.2
+Pandas==0.20.3
+Sklearn==0.19.0
+
